@@ -1,0 +1,9 @@
+c:\users\alpha\documents\visual studio 2015\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe.config
+C:\Users\Alpha\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.exe
+C:\Users\Alpha\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject\bin\Debug\FinalProject.pdb
+C:\Users\Alpha\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Alpha\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.SplashScreen.resources
+C:\Users\Alpha\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.Properties.Resources.resources
+C:\Users\Alpha\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.csproj.GenerateResource.Cache
+C:\Users\Alpha\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.exe
+C:\Users\Alpha\Documents\Visual Studio 2015\Projects\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
